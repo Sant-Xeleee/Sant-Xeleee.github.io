@@ -3,18 +3,18 @@ body {
     font-family: VT323, monospace;
     font-size: 18px;
     background-color: #000000;
-    color: #ff0000;
+    color: ##b30707;
     text-align: center;
     padding: 50px;
 }
 
 h1 {
-    color: #ff0000;
+    color: #b30707;
     background-color: #000000;
 }
 
 a {
-    color: #ff0000;
+    color: #b30707;
     text-decoration: none;
 }
 
@@ -35,7 +35,7 @@ a:hover {
 
 .nav-button {
     padding: 15px 20px;
-    background-color: #ff0000;
+    background-color: #b30707;
     color: black;
     text-decoration: none;
     border-radius: 25px;
@@ -52,10 +52,10 @@ a:hover {
 }
 
 .nav-button:hover {
-    background-color: #009c00;
+    background-color: #7a0505;
     transform: translateY(-3px) scale(1.05); 
-    box-shadow: 0 0 15px #ff0000, 0 0 25px #ff0000; /* Glow effect */
-    border: 2px solid #ff0000; /* Add a border on hover */
+    box-shadow: 0 0 15px #b30707, 0 0 25px #b30707; /* Glow effect */
+    border: 2px solid #b30707; /* Add a border on hover */
 }
 
 .nav-button:active {
@@ -108,10 +108,10 @@ Por si agregas más botones.
     width: 150px; 
     height: 150px; 
     border-radius: 50%; /* Makes the image circular */
-    border: 3px solid #ff0000; 
+    border: 3px solid #b30707; 
     object-fit: cover; 
     margin-bottom: 20px; /* Space below the image */
-    box-shadow: 0 0 15px #ff0000, 0 0 25px #ff0000; /* Glow effect */
+    box-shadow: 0 0 15px #b30707, 0 0 25px #b30707; /* Glow effect */
 }
 
 /* Center the header content */
@@ -120,6 +120,6 @@ header {
     flex-direction: column;
     align-items: center;
     background-color: #000000;
-    color: #ff0000;
+    color: #b30707;
     padding: 20px 0;
 }
