@@ -3,7 +3,7 @@ body {
     font-family: VT323, monospace;
     font-size: 18px;
     background-color: #000000;
-    color: ##b30707;
+    color: #b30707;
     text-align: center;
     padding: 50px;
 }
@@ -14,6 +14,10 @@ h1 {
 }
 
 a {
+    color: #b30707;
+    text-decoration: none;
+}
+p {
     color: #b30707;
     text-decoration: none;
 }
