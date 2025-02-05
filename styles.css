@@ -36,7 +36,7 @@ a:hover {
 .nav-button {
     padding: 15px 20px;
     background-color: #b30707;
-    color: black;
+    color: white;
     text-decoration: none;
     border-radius: 25px;
     transition: all 0.3s ease;
